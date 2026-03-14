@@ -19,12 +19,6 @@ This concept can help developers understand which parts of a system are more pro
 - Standard C Libraries
 - File Logging
 
-## Project Structure
-code-path-mortality-tracker
-│
-├── main.c
-├── cpmt_logs.txt
-└── README.md
 ## How It Works
 
 1. Two code paths are defined:
